@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [27/Mar/2018:12:10:44 -0400] "GET / HTTP/1.1" 200 286 http-bio-8080-exec-1 168
+0:0:0:0:0:0:0:1 - - [27/Mar/2018:12:12:08 -0400] "GET /spring_mvc/home HTTP/1.1" 404 949 http-bio-8080-exec-4 26
+0:0:0:0:0:0:0:1 - - [27/Mar/2018:12:12:27 -0400] "GET /spring_mvc/home HTTP/1.1" 404 949 http-bio-8080-exec-6 23
+0:0:0:0:0:0:0:1 - - [27/Mar/2018:12:12:36 -0400] "GET /spring_mvc/home HTTP/1.1" 404 949 http-bio-8080-exec-8 2018
+0:0:0:0:0:0:0:1 - - [27/Mar/2018:12:13:23 -0400] "GET /spring_mvc/home HTTP/1.1" 404 949 http-bio-8080-exec-1 65
